@@ -1,0 +1,15 @@
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\bin\Debug\net8.0\FirstSolution.exe
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\bin\Debug\net8.0\FirstSolution.deps.json
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\bin\Debug\net8.0\FirstSolution.runtimeconfig.json
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\bin\Debug\net8.0\FirstSolution.dll
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\bin\Debug\net8.0\FirstSolution.pdb
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\obj\Debug\net8.0\FirstSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\obj\Debug\net8.0\FirstSolution.AssemblyInfoInputs.cache
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\obj\Debug\net8.0\FirstSolution.AssemblyInfo.cs
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\obj\Debug\net8.0\FirstSolution.csproj.CoreCompileInputs.cache
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\obj\Debug\net8.0\FirstSolution.sourcelink.json
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\obj\Debug\net8.0\FirstSolution.dll
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\obj\Debug\net8.0\refint\FirstSolution.dll
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\obj\Debug\net8.0\FirstSolution.pdb
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\obj\Debug\net8.0\FirstSolution.genruntimeconfig.cache
+C:\Users\selet\Desktop\IntegrationCase-main\FirstSolution\obj\Debug\net8.0\ref\FirstSolution.dll

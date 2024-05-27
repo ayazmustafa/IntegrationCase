@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4uhqN+0y/F7H1rpSKL5UXJRCa66M82pF6tBxSkoJf6bmdTT52qlzfQMPq+91LnZwN6noePM10NnZHGbDU6pbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selet\\Desktop\\IntegrationCase-main\\SecondSolution\\SecondSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selet\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\selet\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\selet\\.nuget\\packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
+    "C:\\Users\\selet\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

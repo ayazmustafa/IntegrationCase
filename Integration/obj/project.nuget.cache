@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmTi1okWbO/nnyx3alzWvzP4/u3GW65txdvTzBDPXHAZ0ne/t6ktQAjZDyDvIYhaCBzgf0BgMirJJcJ+c7NZNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selet\\Desktop\\IntegrationCase-main\\Integration\\Integration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selet\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\selet\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\selet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\selet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
